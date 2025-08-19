@@ -8,3 +8,7 @@ public class pr1_6 {
 
     }
 }
+
+
+// No need to explain this entire code.
+// Same as pr1_2 . just have to print values.

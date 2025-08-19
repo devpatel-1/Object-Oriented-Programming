@@ -16,7 +16,7 @@ public class pr3_7 {
         System.out.println("After replace: " + sb);
 
         sb.reverse();
-        System.out.println("After reverce: " + sb);
+        System.out.println("After reverse: " + sb);
 
     }
 }

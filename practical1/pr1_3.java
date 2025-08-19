@@ -6,3 +6,8 @@ public class pr1_3 {
         System.out.println("############################");
     }
 }
+
+
+
+// Same explanation for this code as pr1_2.
+// We just printing the message not doing anything new in this one.
